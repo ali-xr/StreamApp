@@ -16,15 +16,15 @@ Stream Flutter project.
   
   
   # Packages:
-  cupertino_icons: ^1.0.2 \n
-  pin_code_fields: ^7.3.0 \n
-  chewie: ^1.2.2 \n
-  video_player: ^2.1.12 \n
-  firebase_auth: ^3.0.1 \n
-  firebase_core: ^1.4.0 \n
-  comment_box: ^0.0.16 \n
-  image_picker: ^0.8.3+2 \n
-  google_fonts: ^2.1.0 
+  cupertino_icons: ^1.0.2 /n
+  pin_code_fields: ^7.3.0 /n
+  chewie: ^1.2.2 /n
+  video_player: ^2.1.12 /n
+  firebase_auth: ^3.0.1 /n
+  firebase_core: ^1.4.0 /n
+  comment_box: ^0.0.16 /n
+  image_picker: ^0.8.3+2 /n
+  google_fonts: ^2.1.0 /n
 
 # [Click here to download the app](https://github.com/AlijonXr/StreamApp/blob/main/app-release.apk) 
 
