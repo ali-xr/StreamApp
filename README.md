@@ -24,7 +24,7 @@ Stream Flutter project.
   firebase_core: ^1.4.0 \n
   comment_box: ^0.0.16 \n
   image_picker: ^0.8.3+2 \n
-  google_fonts: ^2.1.0 \n
+  google_fonts: ^2.1.0 
 
 # [Click here to download the app](https://github.com/AlijonXr/StreamApp/blob/main/app-release.apk) 
 
