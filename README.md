@@ -15,7 +15,7 @@ Stream Flutter project.
 <a href="https://ibb.co/jMxp7jf"><img src="https://i.ibb.co/XsdwmGL/Screenshot-20210811-200038.jpg" alt="Screenshot-20210811-200038" border="0"  width="120"></a>
  
 # Project Gif
-<a href="https://ibb.co/5G9m9yr"><img src="https://i.ibb.co/rFtYtSx/Stream.gif" alt="Stream" border="0" width="150"></a>
+<a href="https://ibb.co/fGqLptg"><img src="https://i.ibb.co/5xGw8v0/Stream.gif" alt="Stream" border="0" width="150"></a>
   
   # Packages:
   cupertino_icons: ^1.0.2 <br/>
