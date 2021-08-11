@@ -13,6 +13,6 @@ Stream Flutter project.
 <a href="https://ibb.co/52TNwtf"><img src="https://i.ibb.co/GF7KNBb/Screenshot-20210811-200023.jpg" alt="Screenshot-20210811-200023" border="0"  width="100"></a>
 <a href="https://ibb.co/jMxp7jf"><img src="https://i.ibb.co/XsdwmGL/Screenshot-20210811-200038.jpg" alt="Screenshot-20210811-200038" border="0"  width="100"></a>
 
-# Click here to download the app 
+# [Click here to download the app](https://github.com/AlijonXr/StreamApp/blob/main/app-release.apk) 
 
 
