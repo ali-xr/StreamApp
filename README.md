@@ -28,6 +28,6 @@ Stream Flutter project.
   image_picker: ^0.8.3+2 <br/>
   google_fonts: ^2.1.0 <br/>
 
-# [Click here to download the app](https://github.com/AlijonXr/StreamApp/blob/main/app-release.apk) 
+# [Click here to download the app](https://github.com/AlijonXr/StreamApp/raw/main/app-release.apk) 
 
 
