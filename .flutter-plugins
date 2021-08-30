@@ -1,0 +1,13 @@
+# This is a generated file; do not edit or check into version control.
+firebase_auth=/home/ali/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.1.0/
+firebase_auth_web=/home/ali/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-3.1.0/
+firebase_core=/home/ali/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.6.0/
+firebase_core_web=/home/ali/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.1.0/
+flutter_plugin_android_lifecycle=/home/ali/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.2/
+image_picker=/home/ali/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.8.3+3/
+image_picker_for_web=/home/ali/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_for_web-2.1.2/
+video_player=/home/ali/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/video_player-2.1.14/
+video_player_web=/home/ali/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_web-2.0.2/
+wakelock=/home/ali/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock-0.5.3+3/
+wakelock_macos=/home/ali/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock_macos-0.1.0+2/
+wakelock_web=/home/ali/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock_web-0.2.0+2/
