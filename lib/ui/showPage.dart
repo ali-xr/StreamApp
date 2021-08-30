@@ -4,6 +4,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:video_player/video_player.dart';
 
+// ignore: must_be_immutable
 class ShowPage extends StatefulWidget {
   String kelayotganVideo;
   String kelayotganIsm;
@@ -92,6 +93,7 @@ class SshowPageState extends State<ShowPage> {
     var width = MediaQuery.of(context).size.width;
     var height = MediaQuery.of(context).size.height;
     return Scaffold(
+      
       appBar: AppBar(
         elevation: 0,
         backgroundColor: Color(0xFF15141A),

@@ -1,5 +1,4 @@
-import 'package:exam/ui/code.dart';
-import 'package:exam/ui/courseShowPage.dart';
+import 'package:exam/ui/code2.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/cupertino.dart';
@@ -22,7 +21,6 @@ class _LoginPageState extends State<LoginPage> {
   var a = Firebase.initializeApp();
   @override
   Widget build(BuildContext context) {
-    var width = MediaQuery.of(context).size.width;
     var height = MediaQuery.of(context).size.height;
     return Scaffold(
       resizeToAvoidBottomInset: false,
@@ -31,15 +29,14 @@ class _LoginPageState extends State<LoginPage> {
           decoration: BoxDecoration(
             image: DecorationImage(
               alignment: Alignment.topCenter,
-              image:
-                  NetworkImage("https://pngimg.com/uploads/pubg/pubg_PNG8.png"),
+              image: AssetImage("assets/images/pubg.png"),
             ),
             color: Colors.black87,
           ),
           child: Stack(
             children: [
               Container(
-                margin: EdgeInsets.only(top: height / 2.7),
+                margin: EdgeInsets.only(top: height / 2.5),
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.only(
                       topLeft: Radius.circular(40.0),
@@ -50,7 +47,7 @@ class _LoginPageState extends State<LoginPage> {
                   children: [
                     Padding(
                       padding: const EdgeInsets.only(
-                          top: 100.0, left: 30.0, right: 30.0),
+                          top: 80.0, left: 30.0, right: 30.0),
                       child: Expanded(
                         child: Container(
                           margin: EdgeInsets.only(left: 10),
@@ -67,7 +64,7 @@ class _LoginPageState extends State<LoginPage> {
                                 validator: (e) {
                                   if (dropdownText == "+998") {
                                     if (phone.toString().length != 13) {
-                                      return "Incorrect";
+                                      return "Telefon raqamingizni to'liq kiriting!";
                                     }
                                   }
                                 },
@@ -121,7 +118,8 @@ class _LoginPageState extends State<LoginPage> {
                               await Navigator.push(
                                 context,
                                 MaterialPageRoute(
-                                  builder: (context) => Code(verificationId),
+                                  builder: (context) =>
+                                      Code2(verificationId, phoneNumber: phone),
                                 ),
                               );
                             },
@@ -130,7 +128,6 @@ class _LoginPageState extends State<LoginPage> {
                         }
                       },
                     ),
-                    
                   ],
                 ),
               ),

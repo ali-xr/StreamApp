@@ -13,18 +13,17 @@ dependencies:
     sdk: flutter
 
 
-  cupertino_icons: ^1.0.2
-  pin_code_fields: ^7.3.0
+  cupertino_icons: ^1.0.3
   chewie: ^1.2.2
-  video_player: ^2.1.12
-  firebase_auth: ^3.0.1
-  firebase_core: ^1.4.0
+  video_player: ^2.1.14
+  firebase_auth: ^3.1.0
+  firebase_core: ^1.6.0
   comment_box: ^0.0.16
-  image_picker: ^0.8.3+2
-  google_fonts: ^2.1.0
+  image_picker: ^0.8.3+3
   
 
 dev_dependencies:
+  flutter_launcher_icons: ^0.9.1
   flutter_test:
     sdk: flutter
 
@@ -32,8 +31,8 @@ flutter:
 
   uses-material-design: true
 
-  # assets:
-  #   - images/a_dot_burr.jpeg
+  assets:
+    - assets/images/
   #   - images/a_dot_ham.jpeg
 
   # example:
@@ -55,3 +54,7 @@ flutter:
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
   #
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/games.jpg"
