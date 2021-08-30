@@ -1,6 +1,6 @@
 # Stream App
 
-Stream Flutter project.
+Stream App Flutter project.
 
 # Project Photos
 <a href="https://ibb.co/M8DxvfV"><img src="https://i.ibb.co/n3sNGBc/Screenshot-20210811-200119.jpg" alt="Screenshot-20210811-200119" border="0"  width="120"></a>
